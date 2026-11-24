@@ -1,0 +1,12 @@
+# 競馬アカデミー - 競馬の世界を体系的に学ぶ
+
+> 競馬アカデミー - 競馬の基礎から予想理論・血統分析・馬券戦略まで、競馬の世界を体系的に学べる日本語学習プラットフォーム。
+
+## Main Pages
+
+- [keiba academy](https://musclelove-777.github.io/keiba-academy/): main page of 競馬アカデミー - 競馬の世界を体系的に学ぶ.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/keiba-academy
